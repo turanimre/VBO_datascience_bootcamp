@@ -1,5 +1,6 @@
 # VBO_datascience_bootcamp
 
+
 ### 1. -- [Python Programming for Data Science](https://github.com/turanimre/Python-Programming-for-Data-Science.git)🔗
 
 Bu hafta, temel Python programlama becerilerini öğrenmekle başlandı. Bu ders, veri bilimi için kullanılan Python kütüphanelerini ve araçlarını kullanmak için temel bir anlayış sağladı. 
@@ -10,6 +11,7 @@ Bunun üzerine **Kural Tabanlı Sınıflandırma** hakkında dersler aldık. Son
 CaseStudy 1 -- [Gezinomi_Rule_Based_Classification](https://github.com/turanimre/Python-Programming-for-Data-Science/blob/main/Gezinomi_Rule_Based_Classification.py))🔗
 
 CaseStudy 2 (Bonus) -- [Bonus_Rule_,Based_Classification](https://github.com/turanimre/Python-Programming-for-Data-Science/blob/main/Bonus_Rule_%2CBased_Classification.py))🔗
+
 
 
 ### 2. -- [CRM Analytics](https://github.com/turanimre/CRM-Analytics)🔗
@@ -30,6 +32,7 @@ CaseStudy 1. -- [Case_study_1_Flo_RFM](https://github.com/turanimre/CRM-Analytic
 CaseStudy 2. -- [Case_study_2_FLO_CLTV](https://github.com/turanimre/CRM-Analytics/blob/main/Case_study_2_FLO_CLTV.py)🔗
 
 
+
 ### 3. -- [Mesurement Problems](https://github.com/turanimre/Measurement-Problems)🔗
 
 Bu hafta boyunca, doğru ölçümleme tekniklerinin ve testlerinin kullanılmasının önemi ele alındı. Örneğin, **AB testleri**, hipotez testleri, Güven Aralığı, Hata Tipi I ve II gibi konulara odaklanıldı. Bu teknikler, veri bilimi projelerinde doğru sonuçlar elde etmek için gerekli olduğundan bahsedildi.
@@ -37,6 +40,7 @@ Bu hafta boyunca, doğru ölçümleme tekniklerinin ve testlerinin kullanılmas�
 **AB testi**, bir kontrol grubu ve bir deney grubu oluşturarak çalışır. Kontrol grubuna mevcut sürüm (A) sunulurken, deney grubuna yeni bir sürüm (B) sunulur. Ardından, iki grubun performansını karşılaştırmak için bir dizi ölçüm yapılır. Örneğin, bir web sitesinde, dönüşüm oranları veya kullanıcı etkileşimleri ölçülebilir. AB testleri ayrıca hipotez testlerine dayanır. Bir hipotez belirlenir ve ardından test sonuçlarına göre kabul edilir veya reddedilir. Örneğin, bir hipotez "Sürüm B, Sürüm A'dan daha yüksek bir dönüşüm oranına sahip olacaktır" şeklinde olabilir.
 
 CaseStudy 1. -- [Case_study_1_AB_testing](https://github.com/turanimre/Measurement-Problems/blob/main/Case_study_1_AB_testing.py)🔗
+
 
 
 ### 4. -- [Recommendation Systems](https://github.com/turanimre/Recommendation-Systems)🔗
@@ -54,6 +58,7 @@ CaseStudy 1. -- [Case_study_1_Armut_Association_Rule_Based](https://github.com/t
 CaseStudy 2. -- [Case_study_2_Hybrid_Recommender_System](https://github.com/turanimre/Recommendation-Systems/blob/main/Case_study_2_Hybrid_Recommender_System.py)🔗
 
 
+
 ### 5. -- [Feature Engineering](https://github.com/turanimre/Feature-Engineering)🔗
 
 Bu hafta, veri bilimcilerin en önemli becerilerinden biri olan feature engineering ele alındı. Feature engineering, verileri analiz edilebilir, modele edilebilir ve sonuçları yorumlanabilir hale getirmek için kullanılan bir dizi teknik ve yöntemdir. Bu hafta, veri ön işleme teknikleri, veri temizleme, özellik seçimi ve özellik mühendisliği teknikleri gibi konulara odaklanıldı.
@@ -69,6 +74,7 @@ Bu hafta, veri bilimcilerin en önemli becerilerinden biri olan feature engineer
 CaseStudy 1. -- [Case_study_1_Diabetes_pred](https://github.com/turanimre/Feature-Engineering/blob/main/Case_study_1_Diabetes_pred.py)🔗
 
 CaseStudy 2. -- [Case_study_2_Telco_churn](https://github.com/turanimre/Feature-Engineering/blob/main/Case_study_2_Telco_churn.py)🔗
+
 
 
 ### 6. -- [Machine Learning](https://github.com/turanimre/Machine-Learning)🔗
@@ -91,12 +97,15 @@ CaseStudy 2. -- [Case_Study_2_Scouting Classification](https://github.com/turani
 #### NOT
 ** Yapılan bütün CaseStudylerde gerçek yaşam verileri kullanılmıştır.**
 
-VBO ---- https://bootcamp.veribilimiokulu.com/
-Miull ---- https://www.miuul.com/veri-bilimi-icin-python-programlama
+
+VBO ---- https://bootcamp.veribilimiokulu.com
+
+Miuul ---- https://www.miuul.com/veri-bilimi-icin-python-programlama
 
 
 
 ![VBO_Certifcate](https://github.com/turanimre/VBO_datascience_bootcamp/assets/33812540/dd90fffc-d0a5-49c6-b24c-f14aa4ef389d)
+
 
 
 
