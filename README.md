@@ -95,7 +95,7 @@ CaseStudy 2. -- [Case_Study_2_Scouting Classification](https://github.com/turani
 
 
 #### NOT
-** Yapılan bütün CaseStudylerde gerçek yaşam verileri kullanılmıştır.**
+**Yapılan bütün CaseStudylerde gerçek yaşam verileri kullanılmıştır.**
 
 
 VBO ---- https://bootcamp.veribilimiokulu.com
