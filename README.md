@@ -102,7 +102,7 @@ VBO ---- https://bootcamp.veribilimiokulu.com
 
 Miuul ---- https://www.miuul.com/veri-bilimi-icin-python-programlama
 
-
+## [Certificate VBO](https://certificate.veribilimiokulu.com/turan_imre)🔗
 
 ![VBO_Certifcate](https://github.com/turanimre/VBO_datascience_bootcamp/assets/33812540/dd90fffc-d0a5-49c6-b24c-f14aa4ef389d)
 
